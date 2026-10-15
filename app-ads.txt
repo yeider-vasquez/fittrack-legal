@@ -1,2 +1,2 @@
 # Archivo app-ads.txt para FitTrack
-# Aquí se pegará el ID de comerciante de AdMob en la Fase 2
+# google.com, pub-2120684871868208, DIRECT, f08c47fec0942fa0
